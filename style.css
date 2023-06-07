@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    display: block;
+    width: 100%;
+    height: 400px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjFQIkZNasvqZKYcymGZjesW8sY1P1IdHOrfJpcu0143B5KO0QG64hHfWlEJgFzp1Tjw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+
+}
+
+header h1 {
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-size: 4em;
+
+}
